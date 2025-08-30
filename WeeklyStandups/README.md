@@ -1,9 +1,6 @@
-**14-Week Standup Plan: Personal Productivity Data Project**
+# 14-Week Standup Plan: Personal Productivity Data Project
 
-
-
-
-*Project Overview*
+## Project Overview
 
 This repository documents my 14-week journey to improve personal productivity through data tracking and analysis.
 
@@ -17,10 +14,7 @@ Each week, I record a short standup update with:
 
 By the end of the project, I aim to identify patterns in my study, sleep, screen time, and related habits — and test how small changes affect overall productivity.
 
-
-
-
-*Repository Structure*
+## Repository Structure
 
 The repository is organized by week:
 
@@ -36,10 +30,7 @@ The repository is organized by week:
 
 Each file contains the weekly progress report.
 
-
-
-
-*Productivity Metrics Tracked*
+## Productivity Metrics Tracked
 
 Throughout the project, I focused on:
 
@@ -53,10 +44,7 @@ Throughout the project, I focused on:
 
 -- Daily Productivity Rating (1–5 scale)
 
-
-
-
-*Goals*
+## Goals
 
 -- Build consistent habit tracking.
 
@@ -66,9 +54,6 @@ Throughout the project, I focused on:
 
 -- Reflect on insights for long-term productivity improvement.
 
-
-
-
-*Future Work*
+## Future Work
 
 This project ends at Week 14, but I plan to continue tracking and refining habits beyond this course for ongoing self-improvement.
