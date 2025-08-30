@@ -70,4 +70,5 @@ Throughout the project, I focused on:
 
 
 *Future Work*
+
 This project ends at Week 14, but I plan to continue tracking and refining habits beyond this course for ongoing self-improvement.
