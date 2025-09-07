@@ -1,16 +1,15 @@
-# Week 1: Kickoff — Framing the Project
+# Week 2 Standup 
 
-## What have you done in the past week?
---> This past week, I chose my project topic, which is analyzing my own personal productivity using data. 
-I thought this would be a meaningful area because it’s something I want to improve personally and it also ties 
-well into project management concepts.
+## What I have done in the past week:
+This past week, I narrowed down the specific metrics I want to track for my productivity. I realized the most meaningful 
+ones for me are study hours, sleep hours, and screen time, since these directly affect how focused and energized I feel.
 
-## Challenges/blockers encountered in the past week?
---> I wouldn’t say I faced technical challenges yet, but more questions about how to shape the project. Productivity 
-is such a broad and subjective concept, which made it hard to figure out how to measure clearly. To address these, 
-I first defined what productivity means for me personally: it’s about balancing habits and everyday activities in a way 
-that helps me stay focused and reach my academic and personal goals.
+## What challenges I have encountered in the past week:
+The challenge was that there were so many possible habits I could track—like exercise, diet, or mood—and it started to feel overwhelming. I was also worried that if I tried to track too many things, I wouldn’t be able to keep up with it consistently.
 
-## What will you do in the next week?
---> For next week, my goal is to finalize which metrics I’ll begin tracking first, and then figure out the best way to record 
-the data every day—whether that’s in a spreadsheet, through an app, or even manually at first.
+## How I overcame these challenges during the week:
+To manage this, I simplified the scope and chose just three core metrics. They’re easy to measure in hours and will still 
+give me useful insights without being too complicated.
+
+## What I will do in the next week:
+Next week, I’ll start daily logging using a simple spreadsheet. To stay consistent, I’ll set a reminder on my phone to enter the data each night. My goal is just to build the habit of recording data regularly.
