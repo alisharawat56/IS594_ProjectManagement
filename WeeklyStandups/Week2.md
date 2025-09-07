@@ -1,0 +1,16 @@
+###Week 1: Kickoff — Framing the Project
+
+##What have you done in the past week?
+--> This past week, I chose my project topic, which is analyzing my own personal productivity using data. 
+I thought this would be a meaningful area because it’s something I want to improve personally and it also ties 
+well into project management concepts.
+
+##Challenges/blockers encountered in the past week?
+--> I wouldn’t say I faced technical challenges yet, but more questions about how to shape the project. Productivity 
+is such a broad and subjective concept, which made it hard to figure out how to measure clearly. To address these, 
+I first defined what productivity means for me personally: it’s about balancing habits and everyday activities in a way 
+that helps me stay focused and reach my academic and personal goals.
+
+##What will you do in the next week?
+--> For next week, my goal is to finalize which metrics I’ll begin tracking first, and then figure out the best way to record 
+the data every day—whether that’s in a spreadsheet, through an app, or even manually at first.
